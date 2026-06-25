@@ -33,9 +33,6 @@ Cybersecurity enthusiast from Kerala, India. Class XII graduate passionate about
 
 ---
 
-## 🏆 TryHackMe
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Thrishaahh.png)](https://tryhackme.com/p/Thrishaahh)
 
 ---
 
