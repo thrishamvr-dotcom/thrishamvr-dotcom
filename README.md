@@ -6,7 +6,7 @@ Cybersecurity enthusiast from Kerala, India. Class XII graduate passionate about
 
 ## 🔭 What I'm Working On
 
-- Practicing hands-on hacking on **TryHackMe** (Top 40% | 9 rooms completed)
+- Practicing hands-on hacking on **TryHackMe** (Top 30% | 12 rooms completed)
 - Expanding my Python security tooling
 - Preparing for **IIT Kanpur B.Tech Cybersecurity**
 
